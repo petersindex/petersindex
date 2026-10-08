@@ -1,0 +1,29 @@
+{
+  "username": "petersindex",
+  "title": "peter@github",
+  "birthday": "1996-05-13",
+  "width": 66,
+
+  "art": {
+    "file": "ascii.txt",
+    "background": "+"
+  },
+
+  "card": [
+    ["OS", "macOS, Windows 11, iOS 27"],
+    ["Uptime", "{uptime}"],
+    ["IDE", "Orca, Claude Code"],
+    "",
+    ["Hobbies.Software", "Games, Vibe-Coding, Gym"],
+    ["Hobbies.Hardware", "Monitors, Keyboards, Mouse, Desk Accessories"],
+    "",
+    "# Contact",
+    ["Email", "hi@petersindex.com"],
+    ["Website", "petersindex.com"],
+    ["Discord", "petersindex"],
+    ["X", "@petersindex"],
+    "",
+    "# GitHub Stats",
+    "@stats"
+  ]
+}
