@@ -1,20 +1,5 @@
 {
  "repos": {
-  "petersindex/Chirpson": {
-   "add": 1,
-   "commits": 1,
-   "del": 0
-  },
-  "petersindex/Pylon": {
-   "add": 1,
-   "commits": 1,
-   "del": 0
-  },
-  "petersindex/Voxl": {
-   "add": 1,
-   "commits": 1,
-   "del": 0
-  },
   "petersindex/gpt-image-2-claudecode": {
    "add": 1653,
    "commits": 8,
@@ -37,13 +22,13 @@
   }
  },
  "totals": {
-  "commits": 17,
-  "contributed": 10,
+  "commits": 14,
+  "contributed": 6,
   "followers": 0,
-  "loc_add": 2548,
+  "loc_add": 2545,
   "loc_del": 215,
-  "repos": 10,
+  "repos": 6,
   "stars": 0,
-  "updated": "2026-10-28T10:24:34+00:00"
+  "updated": "2026-10-29T10:44:48+00:00"
  }
 }
